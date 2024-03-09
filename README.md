@@ -1,4 +1,4 @@
-# Online-geoparshing-and-geocoding-in-a-crisis-crowdsourcing-mapping-workflow-with-GPT-and-Google-Map
+# Online geoparshing and geocoding in a crisis crowdsourcing mapping workflow with GPT and Google Map
 
 User-generated messages with geographical information on social media platforms (such as tweets) have been found to play an increasingly important role in crisis crowdsourced mapping. Manually extracting information requires significant human effort and time, and traditional named entity recognition methods have been shown to struggle with accurately extracting specific locations from the messages. Message content from social media is an ideal source for helping promptly pointing the specific locations where the disaster-related events occur. But how to process a large amount of not well-organized text is also so challenging. Although recruiting many volunteers to extract information and map the data manually is a possible solution, but the stress faced by volunteers in emergency scenarios may impact their mental health, which is also not good for the sustainability of crisis crowdsourcing mapping. 
 
